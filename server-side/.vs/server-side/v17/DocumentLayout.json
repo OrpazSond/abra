@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\models\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\models\\pettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\services\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|c:\\users\\orpaz\\desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31FCE0FC-4E59-4320-9FAF-7A291F00BCB3}|server-side\\server-side.csproj|solutionrelative:server-side\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetType.cs",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Models\\PetType.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\PetType.cs",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Models\\PetType.cs",
+              "RelativeToolTip": "server-side\\Models\\PetType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:11:20.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "server-side\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Controllers\\PetController.cs",
+              "RelativeToolTip": "server-side\\Controllers\\PetController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:56:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Models\\Pet.cs",
+              "RelativeToolTip": "server-side\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:48:25.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetService.cs",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Services\\PetService.cs",
+              "RelativeDocumentMoniker": "server-side\\Services\\PetService.cs",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Services\\PetService.cs",
+              "RelativeToolTip": "server-side\\Services\\PetService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:44:37.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\appsettings.json",
+              "RelativeDocumentMoniker": "server-side\\appsettings.json",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\appsettings.json",
+              "RelativeToolTip": "server-side\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T10:43:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "server-side\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\appsettings.Development.json",
+              "RelativeToolTip": "server-side\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T10:41:45.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Models\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "server-side\\Models\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Models\\MongoDBSettings.cs",
+              "RelativeToolTip": "server-side\\Models\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:41:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Program.cs",
+              "RelativeDocumentMoniker": "server-side\\Program.cs",
+              "ToolTip": "C:\\Users\\orpaz\\Desktop\\\u05D0\u05D5\u05E8\u05E4\u05D6\\project\\abra assignment\\server-side\\server-side\\Program.cs",
+              "RelativeToolTip": "server-side\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:24:38.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
